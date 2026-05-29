@@ -1,6 +1,0 @@
-{
-  "name": "Legal AI - Analisador de Contratos",
-  "description": "Analisador inteligente de contratos que ajuda a identificar cláusulas de risco e gerar nova redação de blindagem jurídica.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
